@@ -3,7 +3,7 @@ Hola! Hice un pequeño programa en Python para poder hacer de manera más fácil
 
 El horario generado por el programa puede ser importado únicamente si tienes:
 - La versión pagada en un dispositivo iOS o Android,
-- o si tienes un dispositivo iOS y un computador Mac (en este caso no es necesario tener la app pagada).
+- o si tienes un dispositivo iOS y un [computador Mac](https://apps.apple.com/cl/app/horario-de-clases/id425121147) (en este caso no es necesario tener la app pagada).
 
 # ¿Cómo se usa?
 Debes abrir y correr el archivo "a_maker.py".

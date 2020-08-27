@@ -26,3 +26,11 @@ En la consola deberías tener esto al terminar:
 ![Imagen Consola](imagenes/consola1.png)
 
 Finalmente, en la carpeta se debería generar un archivo llamado "archivoGenerado.timetable". Este archivo puede ser importado en la aplicación de iOS o Android desde ajustes. Si tienes dispositivo iOS y un computador con MacOS y tienes descargada la app (que es gratis) en ambos dispositivos con la misma cuenta de iCloud, basta con importar el horario desde Ajustes en la app de TimeTable en tu computador MacOS.
+
+# Resultado Final
+Este lo hice con mi horario, el programa ajusta automáticamente cada bloque con su horario respectivo. (El horario de la imágen está modificado por gusto personal)
+
+![Imagen Horario](imagenes/Timetable.JPEG)
+
+# Plan de desarrollo
+Cuando tenga tiempo en las vacaciones, desarrollaré el código de manera que baste con ingresar el link (URL) del horario en vez de ingresar los datos manualmente :grin:

@@ -17,5 +17,5 @@ Teniendo la siguiente información:
 1. El nombre sería "Probabilidades y Estadística" (sin las comillas).
 1. Tipos de horario corresponde al número de líneas que hay en la columna "Horario". En este caso hay tres (3) líneas (o "tipos"), las cuales corresponden a Ayudantía, Clase y Laboratorio.
   - Ojo, si tienes alguna categoría repetida (por ejemplo CLAS y CLAS en líneas diferentes), debes considerearlos como dos (2) tipos de horarios.
-1. Y en Lineas de horario debes copiar el contenido de la columna Horario correspondiente a tu sección, para luego pegarlo en la consola Python.
-1. Si deseas agregar otro ramo, en el input ingresa "S" (de sí... sin las comillas).
+3. Y en Lineas de horario debes copiar el contenido de la columna Horario correspondiente a tu sección, para luego pegarlo en la consola Python.
+3. Si deseas agregar otro ramo, en el input ingresa "S" (de sí... sin las comillas).

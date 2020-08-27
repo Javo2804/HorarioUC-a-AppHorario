@@ -26,8 +26,10 @@ nuevo_ramo(archivo)
 cond = True
 while cond:
     new = input("¿Desea añadir un nuevo curso? (S/n): ")
-    if sino(new):
+    if sino(new) and new!="":
         nuevo_ramo(archivo)
+    elif new == "":
+        cond = True
     else:
         cond = False
 

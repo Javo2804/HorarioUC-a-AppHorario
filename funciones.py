@@ -9,10 +9,10 @@ def dia_num(dia):
 def num_mod(mod):
     return "mod"+mod
 
-def sino(str):
-    if str in "SsyYSisi":
+def sino(string):
+    if string.lower() in ["s","y","si","yes"]:
         return True
-    elif str in "Nn":
+    elif string.lower() in ["n","no"]:
         return False
 
 

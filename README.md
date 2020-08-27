@@ -28,7 +28,7 @@ En la consola deberías tener esto al terminar:
 Finalmente, en la carpeta se debería generar un archivo llamado "archivoGenerado.timetable". Este archivo puede ser importado en la aplicación de iOS o Android desde ajustes. Si tienes dispositivo iOS y un computador con MacOS y tienes descargada la app (que es gratis) en ambos dispositivos con la misma cuenta de iCloud, basta con importar el horario desde Ajustes en la app de TimeTable en tu computador MacOS.
 
 # Resultado Final
-Este es un ejemplo de un amigo, usó el programa y le generó el horario, haciendo diferencia de colores entre tipo de clase (ya sea cátedra, ayudantía, laboratorio, etc).
+Este es un ejemplo de un amigo, usó el programa y le generó el horario, haciendo diferencia de colores entre tipo de clase, ya sea cátedra, ayudantía, laboratorio, etc. (Recuerda que desde los ajustes de la app puedes activar o desactivar la opción de ver los días sábado y domingo.
 
 ![Imagen Horario](imagenes/timetable.png)
 

@@ -30,7 +30,7 @@ Finalmente, en la carpeta se debería generar un archivo llamado "archivoGenerad
 # Resultado Final
 Este lo hice con mi horario, el programa ajusta automáticamente cada bloque con su horario respectivo. (El horario de la imágen está modificado por gusto personal)
 
-![Imagen Horario](imagenes/Timetable.JPEG)
+![Imagen Horario](imagenes/timetable.png)
 
 # Plan de desarrollo
 Cuando tenga tiempo en las vacaciones, desarrollaré el código de manera que baste con ingresar el link (URL) del horario en vez de ingresar los datos manualmente :grin:

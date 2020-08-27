@@ -12,7 +12,7 @@ El programa solicita la siguiente información: "Nombre del Curso", "Tipos de ho
 Debes abrir [BuscaCursos](http://buscacursos.uc.cl/) y obtener los datos como en el siguiente ejemplo:
 
 Teniendo la siguiente información:
-<img src="imagenes/buscacursos.png">
+![Imagen Buscacursos](imagenes/buscacursos.png)
 
 1. El nombre sería "Probabilidades y Estadística" (sin las comillas).
 1. Tipos de horario corresponde al número de líneas que hay en la columna "Horario". En este caso hay tres (3) líneas (o "tipos"), las cuales corresponden a Ayudantía, Clase y Laboratorio.

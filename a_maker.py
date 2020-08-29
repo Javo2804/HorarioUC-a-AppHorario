@@ -33,8 +33,6 @@ while cond:
     else:
         cond = False
 
-
-
 #fileName = "Timetable.timetable"
 
 #with open(fileName, 'rb') as fp:

@@ -15,11 +15,6 @@ def sino(string):
     elif string.lower() in ["n","no"]:
         return False
 
-
-
-    
-
-
 def read_mod(string):
     horario = string.split(":")
     dias = horario[0].split("-")

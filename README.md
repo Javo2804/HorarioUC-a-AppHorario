@@ -1,4 +1,4 @@
-# HorarioUC-a-AppHorario
+# UC-Horario-App
 Hola! Hice un pequeño programa en Python para poder hacer de manera más fácil el horario de clases de la UC en la aplicación de [Horario/TimeTable](https://classtimetable.app/).
 
 El horario generado por el programa puede ser importado únicamente si tienes:

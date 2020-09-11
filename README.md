@@ -33,4 +33,6 @@ Este es un ejemplo de un amigo, usó el programa y le generó el horario, hacien
 ![Imagen Horario](imagenes/timetable.png)
 
 # Plan de desarrollo
-Cuando tenga tiempo en las vacaciones, desarrollaré el código de manera que baste con ingresar el link (URL) del horario en vez de ingresar los datos manualmente :grin:
+- Cuando tenga tiempo en las vacaciones, desarrollaré el código de manera que o se pueda de manera más "automática".. Ya sea con el link de BuscaCursos u otra idea. :grin:
+- Si es posible, agregar más aplicaciones de horario que permitan importar archivos.
+- Crear una webapp.

@@ -60,7 +60,7 @@ for pre_ramo in pre_ramos:
         for z in y:
             ramos.append(y[z])
 
-
+print(ramos)
 
 
 

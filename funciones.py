@@ -65,7 +65,8 @@ def procesar_ramos(lista):
         modulos = {}
         for i in ramo['Modulos']:
             if len(i)>0:
-                modulos = 
+                pass
+                # modulos = 
 
 
 # FUNCIÓN DE v1.0
